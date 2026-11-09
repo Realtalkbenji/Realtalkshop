@@ -43,7 +43,7 @@ export default function HomePage() {
                 "h-11 px-5",
               )}
             >
-              About the label
+              About the shop
             </Link>
           </div>
         </div>
